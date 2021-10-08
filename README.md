@@ -4,9 +4,9 @@
 
 * Which Gender Responded the most?
 
-##### * Which country Responded the most?
+* Which country Responded the most?
 
-##### * Status of employed?
+* Status of employed?
 
-##### * Also, some analysis of the languages that were worked with. 
+* Also, some analysis of the languages that were worked with. 
 
