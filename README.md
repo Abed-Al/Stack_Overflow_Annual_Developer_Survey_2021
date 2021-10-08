@@ -2,7 +2,7 @@
 ### Basic & Quick Analysis of the Annual Stackoverflow 2021 survey and charts based on this data, to find out:
 
 
-##### * Which Gender Responded the most?
+* Which Gender Responded the most?
 
 ##### * Which country Responded the most?
 
